@@ -1,0 +1,189 @@
+body{
+	margin:0;
+	font-family: Tahoma, Verdana, sans-serif;
+}
+
+.section1{
+	width: 100%;
+	height: 400px;
+	background-image: url("../images/bg.jpeg");
+	background-size: cover;
+	background-repeat: no-repeat;
+	text-align: center;
+}
+.navbar{
+	padding-top: 40px;
+	height: 80px;
+	margin-left: 40px;
+}
+.navbar img{
+	padding-left: 10%;
+	height: 40px;
+	display:block;
+	float: left;
+}
+.section1 ol{
+	padding-right: 10%;
+	float:right;
+	margin-right: 50px;
+}
+.section1 li{
+	font-size: 13px;
+	color: gray;
+	list-style-type: none;
+	display: inline;
+	padding-right: 30px;
+}
+.section1 h1{
+	font-weight: normal;
+	padding-left: 30%;
+	padding-right: 30%;
+	text-align: center;
+	color: white;
+}
+.section1 p{
+	padding-top: 10px;
+	padding-left: 30%;
+	padding-right: 30%;
+	text-align: center;
+	color: white;
+	font-size: 12px;
+}
+.s1content{
+	padding-top: 20px;
+}
+.s1content a{
+	padding: 10px;
+	color: white;
+	height: 30px;
+	border-radius: 7px;
+	text-decoration: none;
+}
+.s1content .postula{
+	background-color: blue;
+}
+.s1content .info{
+	background-color: green;
+}
+
+.section2{
+	width: 100%;
+}
+.s2content{
+	padding-top: 20px;
+	text-align: center;
+	padding-left: 20%;
+	padding-right: 20%;
+}
+.s2content img{
+	height: 300px;
+}
+.s2content h2{
+	font-size: 15px;
+}
+.s2content p{
+	font-size: 12px;
+}
+.section3{
+	padding-top: 30px;
+	border-top: 1px solid #dddddd;
+	border-bottom: 1px solid #dddddd;
+	width: 100%;
+	height: 250px;
+	background-color: #eeeeee;
+}
+.s3content{
+	padding-top: 20px;
+	text-align: center;
+	padding-left: 20%;
+	padding-right: 20%;
+}
+.s3content img{
+	height: 300px;
+}
+.s3content h2{
+	font-size: 15px;
+}
+.s3content p{
+	font-size: 12px;
+	padding-bottom: 10px;
+}
+.s3content .postula{
+	background-color: blue;
+	padding: 10px;
+	color: white;
+	height: 30px;
+	border-radius: 7px;
+	text-decoration: none;
+}
+.section4{
+	padding-top: 30px;
+	width: 100%;
+	height: 200px;
+}
+.s4content{
+	padding-top: 20px;
+	padding-left: 20%;
+	padding-right: 20%;
+}
+.s4content .contacto{
+	float: left;
+}
+.s4content .suscribete{
+	float: left;
+	padding-left: 50px;
+}
+.s4content .enviar {
+	padding-top: 20px;
+}
+.s4content .enviar a{
+	color: black;
+	font-size: 12px;
+	border: 1px solid gray;
+	padding: 5px;
+	border-radius: 5px;
+	text-decoration: none;
+}
+.s4content .enviar input{
+	border: 1px solid gray;
+	padding: 5px;
+	border-radius: 5px;
+	text-decoration: none;
+}
+.s4content h4{
+	font-weight: normal;
+	margin: 0;
+	font-size: 14px;
+	padding-bottom: 10px;
+}
+.s4content p{
+	margin: 0;
+	font-size: 12px;
+}
+.s4content .pstrong{
+	font-weight: bold;
+}
+.s4content .pmail{
+	padding-top: 10px;
+	color: blue;
+}
+.s4content .postula{
+	background-color: blue;
+	padding: 10px;
+	color: white;
+	height: 30px;
+	border-radius: 7px;
+	text-decoration: none;
+}
+.footer{
+	color: white;
+	background-color: black;
+	height: 50px;
+}
+.footer h3{
+	font-size: 15px;
+	padding-top: 10px;
+	padding-left: 10%;
+	font-weight: 100;
+
+}
